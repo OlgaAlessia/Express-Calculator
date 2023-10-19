@@ -1,0 +1,22 @@
+{
+  "name": "express-calculator",
+  "version": "1.0.0",
+  "description": "\"This exercise required to build an Express.js application that performs three statistical operations given an arbitrary amount of numbers. The operations are invoked via one route per operation.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaAlessia/Express-Calculator.git"
+  },
+  "author": "olga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlgaAlessia/Express-Calculator/issues"
+  },
+  "homepage": "https://github.com/OlgaAlessia/Express-Calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
